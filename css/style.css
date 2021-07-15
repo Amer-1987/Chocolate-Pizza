@@ -1,0 +1,75 @@
+.socialMedia1{
+    background-color: forestgreen;
+height: 17mm;
+    width: 30%;
+margin-top:2% ;
+padding-left: 50px;
+
+width:5% ;
+float: left;
+}
+
+.imgs{
+    background-color: forestgreen;
+    width: 19%;
+    height:20px;
+    float: right;
+    display:inline;
+    padding-right: 5px;
+    /* padding-bottom: 10%;*/
+     padding-top: 2%;
+
+}
+
+.socialMedia{
+    background-color: rgb(82, 33, 196);
+
+
+    padding: 3px; ;
+
+}
+
+.par1{
+    background-color: forestgreen;
+
+    
+    width: 20%;
+    padding-left: 150px;
+
+    padding-top:30px;
+    font-size: 300%;
+    font-family: "Sofia", sans-serif;
+    font-weight: bold;
+
+}
+
+.par2{   
+     background-color: rgb(124, 177, 124);
+
+    width: 20%;
+
+color: dimgray;
+padding-left: 150px;
+
+}
+
+.firsH2{
+    background-color: rgb(134, 12, 79);
+    margin-top: 10% ;
+   font-size: 10mm;
+    width: 100%;
+    padding-left: 50px;
+
+color: dimgray;
+
+}
+
+.par3{
+
+    background-color: rgb(173, 224, 31);
+
+    width: 50%;
+
+color: dimgray;
+padding-left: 50px;
+}
